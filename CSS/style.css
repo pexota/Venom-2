@@ -19,6 +19,8 @@ body{
     margin-top: 45px;
     max-width: 728px;
     width: 50%;
+    animation-duration: 2s;
+    animation-delay: 0.3s ;
 }
 .blood{
     background:url("../img/blood.png")top right / 70% no-repeat, #14131A 
